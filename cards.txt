@@ -1,0 +1,12 @@
+Card Number: 1212
+Access: 1
+Timestamp: 2023-11-18 18:27:26
+Card Number: 12
+Access: 0
+Timestamp: 2023-11-18 19:27:43
+Card Number: 1245
+Access: 1
+Timestamp: 2023-11-18 19:28:20
+Card Number: 1655
+Access: 0
+Timestamp: 2023-11-27 14:15:46
